@@ -2,3 +2,6 @@
 archived_fuzzies/*.session
 docs/
 .idea/
+build/
+sulley.egg-info/
+dist/
